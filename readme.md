@@ -1,4 +1,4 @@
-Trabajo práctico N°3
+# Trabajo práctico N°3
 1) Ejecutar varias veces los códigos escritos en Python: sinhilos.py y
 conhilos.py
 a) ¿Qué se puede notar con respecto al tiempo de ejecución? ¿Es
@@ -15,4 +15,16 @@ posiblemente, el codigo no esta funcionando correctamente.
 2) a) 
 <a href="./TP3/con_race_condition.c">codigo resuelto </a>
 
-b) <img src="./TP3/Dragged Text-WedMay15202423-46-33GMT-0300(-03)" alt="imagen">
+b) <img src="./TP3/2b.jpeg" alt="imagen">
+
+# Trabajo práctico N°4
+
+## 4-a
+<img src="./TP4/dockerps.png" alt="imagen">
+
+## 4-b
+<img src="./TP4/html.png" alt="imagen">
+<img src="./TP4/phpadmin.png" alt="imagen">
+
+## 4-c
+<img src="./TP4/web.png" alt="imagen">
